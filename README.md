@@ -23,9 +23,14 @@ A variety of visualisations were employed to effectively communicate COVID-19 tr
 The analysis goes beyond simply displaying data. We delve into the trends, including:
 
 Visualizing confirmed cases, deaths, and recoveries over time (globally).
+
 Comparing key metrics across different countries.
+
 Analyzing daily changes in cases, deaths, and recoveries.
+
 Calculating and visualizing mortality and recovery rates.
+
 Utilizing visuals to monitor active cases, total confirmed cases, total deaths, and total recoveries.
+
 
 By combining data exploration with visual storytelling, this project sheds light on the global picture of COVID-19 and its variations across regions.
