@@ -32,5 +32,4 @@ Calculating and visualizing mortality and recovery rates.
 
 Utilizing visuals to monitor active cases, total confirmed cases, total deaths, and total recoveries.
 
-
-By combining data exploration with visual storytelling, this project sheds light on the global picture of COVID-19 and its variations across regions.
+### By combining data exploration with visual storytelling, this project sheds light on the global picture of COVID-19 and its variations across regions.
